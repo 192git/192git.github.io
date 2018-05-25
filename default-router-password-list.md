@@ -34,7 +34,6 @@ permalink: /default-router-password-list/
 <a target="_blank" href="http://192.168.0.1"><button class="buttonu">192.168.0.1</button></a>
 <a target="_blank" href="http://10.0.0.1"><button class="buttonu">10.0.0.1</button></a>
 <a target="_blank" href="http://192.168.2.1"><button class="buttonu">192.168.2.1</button></a>
-<a target="_blank" href="http://192.168.1.2"><button class="buttonu">192.168.1.2</button></a>
 <center>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 2018 -->
@@ -376,4 +375,4 @@ permalink: /default-router-password-list/
 <td width="21%" height="13">superonline</td>
 </tr>
 </tbody>
-</table></p>
+</table>
